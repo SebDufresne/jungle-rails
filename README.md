@@ -142,4 +142,5 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - TO-DO: Add rspec tests for sale creations.
 - TO-DO: Validate a category has at least one product before adding to the menu.
 - TO-DO: Add fake information to About Us page.
-- TO-DO: Add sales to the dashboard
+- TO-DO: Add sales to the dashboard.
+- TO-DO: Order products and categories, on admin pages.
